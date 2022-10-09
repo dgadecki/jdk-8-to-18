@@ -1,0 +1,19 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û¦Ì¾
+U
+java:S1854":Remove this useless assignment to local variable "record".(©œ¹œúÿÿÿÿ
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(Ð“«ð8â¯ïýŠ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¹¯Ý8ã¯ïýŠ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûÃþŸ8ã¯ïýŠ0
+U
+java:S6213":Rename this variable to not match a restricted identifier.(©œ¹œúÿÿÿÿ
+F
+java:S1481"+Remove this unused "record" local variable.(©œ¹œúÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿¼À¾úÿÿÿÿ8ä¯ïýŠ0
+Q	java:S125"<This block of commented-out lines of code should be removed.(€„Ñ‰
+U	java:S106"9Replace this use of System.out or System.err by a logger.(úø›8ä¯ïýŠ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿¼›´8ä¯ïýŠ0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ûíîc8å¯ïýŠ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(î¤À£üÿÿÿÿ8å¯ïýŠ0
+W
+java:S2094%"BRemove this empty class, write its code or make it an "interface".(€ºá+
